@@ -10,4 +10,4 @@
 
 <h2> screenshot </h2>
 
-![](ekran.gif)
+![](ekran.gif)# netflix-clone
